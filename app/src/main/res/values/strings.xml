@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atv6 Ex1 Poo</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="titulo">Calcular Salário</string>
+    <string name="rb_titular">Prof. Titular</string>
+    <string name="rb_horista">Prof. Horista</string>
+    <string name="hint_salario">Salário/Valor Hora</string>
+    <string name="hint_horas">Anos/Horas Trabalhadas</string>
+    <string name="calcular">Calcular</string>
+    <string name="res">Salário: R$</string>
+</resources>
